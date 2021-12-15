@@ -1,6 +1,9 @@
 # CU-Assignment1-Loan_Analyzer
 This is the First Assignment of the Columbia University Fintech Bootcamp
 
+The python file can be found in this repository under the name loan_analyzer.py
+The output csv file can be found in this repository under the name inexpensive_loans.csv
+
 In this assignment we:
 -Calculated the number of loans from a list, then calculated the sum of the loans cost and used both parameters to find the average loan cost value.
 -Grabbed the future value and remaining months to maturity of a loan and assigned it to variables, then proceeding to calculate the loan's present value using the formula and lastly using a conditional statement to determine whether the loan was worth buying or not (pv>=cost)
